@@ -17,5 +17,5 @@ def get_the_keys(groceries)
 end
 
 def get_the_min(groceries)
-  groceries.values
+
 end
