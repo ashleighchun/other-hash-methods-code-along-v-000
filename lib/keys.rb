@@ -10,10 +10,10 @@ require 'pry'
 
 
 
-groceries.values
+
 
 def get_the_keys(groceries)
-  groceries.keys
+groceries.values
 end
 
 def get_the_min(groceries)
