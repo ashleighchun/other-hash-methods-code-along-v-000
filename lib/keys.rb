@@ -13,7 +13,7 @@ require 'pry'
 
 
 def get_the_keys(groceries)
-groceries.values
+  
 end
 
 def get_the_min(groceries)
