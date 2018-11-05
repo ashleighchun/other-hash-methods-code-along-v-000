@@ -8,10 +8,14 @@ require 'pry'
 #  grains: ["rice", "pasta"]
 # }
 
+
+groceries.keys
+groceries.values
+
 def get_the_keys(groceries)
-  groceries.keys
+  
 end
 
 def get_the_min(groceries)
-  
+
 end
